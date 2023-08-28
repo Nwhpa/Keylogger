@@ -1,3 +1,4 @@
+#please do not use it for malicious purposes
 # Keylogger
 
 Keylogger **usage** :
